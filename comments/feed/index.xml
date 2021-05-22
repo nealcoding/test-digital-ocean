@@ -11,7 +11,7 @@
 	<atom:link href="http://localhost/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 21 May 2021 03:45:06 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 22 May 2021 00:23:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,19 +19,147 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>./../../2021/05/21/hello-world/index.html#comment-1</link>
+		Comment on Buying a TV Is Easy When You Know These Terms by John Doe		</title>
+		<link>./../../product/buying-a-tv-is-easy-when-you-know-these-terms/index.html#comment-3</link>
 
-		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Fri, 21 May 2021 03:45:06 +0000</pubDate>
-		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Thu, 08 Mar 2018 10:30:28 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/friday/?post_type=product&#038;p=129#comment-3</guid>
 
-					<description><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
+					<description><![CDATA[Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam.]]></description>
+			<content:encoded><![CDATA[<p>Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on RESTAURANT EMPLOYER READ CLIENTS ORDERS ON HIS IPAD by John Doe		</title>
+		<link>./../../2018/03/06/restaurant-employer-read-clients-orders-on-his-ipad-2/index.html#comment-143</link>
+
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Thu, 08 Mar 2018 10:08:22 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/friday/?p=273#comment-143</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../../2018/03/06/restaurant-employer-read-clients-orders-on-his-ipad-2/index.html#comment-141&quot;&gt;John Doe&lt;/a&gt;.
+
+Nam posuere tristique sem, eu ultricies tortor imperdiet vitae. Curabitur lacinia neque.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../../2018/03/06/restaurant-employer-read-clients-orders-on-his-ipad-2/index.html#comment-141">John Doe</a>.</p>
+<p>Nam posuere tristique sem, eu ultricies tortor imperdiet vitae. Curabitur lacinia neque.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on RESTAURANT EMPLOYER READ CLIENTS ORDERS ON HIS IPAD by John Doe		</title>
+		<link>./../../2018/03/06/restaurant-employer-read-clients-orders-on-his-ipad-2/index.html#comment-142</link>
+
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Thu, 08 Mar 2018 10:08:02 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/friday/?p=273#comment-142</guid>
+
+					<description><![CDATA[Eum in dicta veniam interesset, harum fuisset te namera.]]></description>
+			<content:encoded><![CDATA[<p>Eum in dicta veniam interesset, harum fuisset te namera.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on RESTAURANT EMPLOYER READ CLIENTS ORDERS ON HIS IPAD by John Doe		</title>
+		<link>./../../2018/03/06/restaurant-employer-read-clients-orders-on-his-ipad-2/index.html#comment-141</link>
+
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Thu, 08 Mar 2018 10:05:53 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/friday/?p=273#comment-141</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../../2018/03/06/restaurant-employer-read-clients-orders-on-his-ipad-2/index.html#comment-140&quot;&gt;admin&lt;/a&gt;.
+
+Eum in dicta veniam interesset, harum fuisset te nam.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../../2018/03/06/restaurant-employer-read-clients-orders-on-his-ipad-2/index.html#comment-140">admin</a>.</p>
+<p>Eum in dicta veniam interesset, harum fuisset te nam.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on RESTAURANT EMPLOYER READ CLIENTS ORDERS ON HIS IPAD by admin		</title>
+		<link>./../../2018/03/06/restaurant-employer-read-clients-orders-on-his-ipad-2/index.html#comment-140</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 08 Mar 2018 09:02:02 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/friday/?p=273#comment-140</guid>
+
+					<description><![CDATA[Rrhoncus et erat. Nam posuere tristique sem, eu ultricies tortor imperdiet vitae. Curabitur lacinia neque.]]></description>
+			<content:encoded><![CDATA[<p>Rrhoncus et erat. Nam posuere tristique sem, eu ultricies tortor imperdiet vitae. Curabitur lacinia neque.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Buying a TV Is Easy When You Know These Terms by admin		</title>
+		<link>./../../product/buying-a-tv-is-easy-when-you-know-these-terms/index.html#comment-2</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 04 Mar 2018 09:09:01 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/friday/?post_type=product&#038;p=129#comment-2</guid>
+
+					<description><![CDATA[Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam.]]></description>
+			<content:encoded><![CDATA[<p>Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Hampton Bay LED Light Ceiling Exhaust Fan by admin		</title>
+		<link>./../../product/hampton-bay-led-light-ceiling-exhaust-fan/index.html#comment-46</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 27 Feb 2018 13:11:58 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/friday/?post_type=product&#038;p=138#comment-46</guid>
+
+					<description><![CDATA[Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam.]]></description>
+			<content:encoded><![CDATA[<p>Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Western Digital USB 3.0 Hard Drives by admin		</title>
+		<link>./../../product/western-digital-usb-3-0-hard-drives/index.html#comment-47</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 22 Feb 2018 09:22:22 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/friday/?post_type=product&#038;p=139#comment-47</guid>
+
+					<description><![CDATA[Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam.]]></description>
+			<content:encoded><![CDATA[<p>Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on New and Refurbished Lenovo Laptops by admin		</title>
+		<link>./../../product/new-and-refurbished-lenovo-laptops/index.html#comment-43</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 22 Feb 2018 09:20:20 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/friday/?post_type=product&#038;p=132#comment-43</guid>
+
+					<description><![CDATA[Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam.]]></description>
+			<content:encoded><![CDATA[<p>Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Buying a TV Is Easy When You Know These Terms by admin		</title>
+		<link>./../../product/buying-a-tv-is-easy-when-you-know-these-terms-2/index.html#comment-58</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 22 Feb 2018 08:17:49 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/friday/?post_type=product&#038;p=146#comment-58</guid>
+
+					<description><![CDATA[Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam.]]></description>
+			<content:encoded><![CDATA[<p>Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam.</p>
 ]]></content:encoded>
 		
 			</item>

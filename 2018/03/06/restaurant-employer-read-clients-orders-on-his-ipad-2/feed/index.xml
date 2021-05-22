@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: RESTAURANT EMPLOYER READ CLIENTS ORDERS ON HIS IPAD	</title>
+	<atom:link href="http://localhost/wordpress/2018/03/06/restaurant-employer-read-clients-orders-on-his-ipad-2/feed/" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 08 Mar 2018 10:08:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: John Doe		</title>
+		<link>./../index.html#comment-143</link>
+
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Thu, 08 Mar 2018 10:08:22 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/friday/?p=273#comment-143</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-141&quot;&gt;John Doe&lt;/a&gt;.
+
+Nam posuere tristique sem, eu ultricies tortor imperdiet vitae. Curabitur lacinia neque.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-141">John Doe</a>.</p>
+<p>Nam posuere tristique sem, eu ultricies tortor imperdiet vitae. Curabitur lacinia neque.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: John Doe		</title>
+		<link>./../index.html#comment-142</link>
+
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Thu, 08 Mar 2018 10:08:02 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/friday/?p=273#comment-142</guid>
+
+					<description><![CDATA[Eum in dicta veniam interesset, harum fuisset te namera.]]></description>
+			<content:encoded><![CDATA[<p>Eum in dicta veniam interesset, harum fuisset te namera.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: John Doe		</title>
+		<link>./../index.html#comment-141</link>
+
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Thu, 08 Mar 2018 10:05:53 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/friday/?p=273#comment-141</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-140&quot;&gt;admin&lt;/a&gt;.
+
+Eum in dicta veniam interesset, harum fuisset te nam.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-140">admin</a>.</p>
+<p>Eum in dicta veniam interesset, harum fuisset te nam.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: admin		</title>
+		<link>./../index.html#comment-140</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 08 Mar 2018 09:02:02 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/friday/?p=273#comment-140</guid>
+
+					<description><![CDATA[Rrhoncus et erat. Nam posuere tristique sem, eu ultricies tortor imperdiet vitae. Curabitur lacinia neque.]]></description>
+			<content:encoded><![CDATA[<p>Rrhoncus et erat. Nam posuere tristique sem, eu ultricies tortor imperdiet vitae. Curabitur lacinia neque.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

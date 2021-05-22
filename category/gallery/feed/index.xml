@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gallery &#8211; test</title>
+	<atom:link href="http://localhost/wordpress/category/gallery/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 06 Mar 2018 17:44:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>CO-FOUNDER TRYING TO EXPLAIN HIS IDEA TO HIS EMPLOYERS</title>
+		<link>./../../../2018/03/06/co-founder-trying-to-explain-his-idea-to-his-employers/index.html</link>
+					<comments>./../../../2018/03/06/co-founder-trying-to-explain-his-idea-to-his-employers/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 06 Mar 2018 17:44:31 +0000</pubDate>
+				<category><![CDATA[Gallery]]></category>
+		<category><![CDATA[deals]]></category>
+		<category><![CDATA[envato]]></category>
+		<category><![CDATA[gallery]]></category>
+		<guid isPermaLink="false">http://localhost:8080/friday/?p=260</guid>
+
+					<description><![CDATA[Aliquam convallis sollicitudin purus. Praesent aliquam, enim at fermentum mollis, ligula massa adipiscing nisl, ac euismod nibh nisl eu lectus. Fusce vulputate sem at sapien. Vivamus leo. Aliquam euismod libero eu enim. Nulla nec felis sed leo placerat imperdiet. Aenean suscipit nulla in justo. Suspendisse cursus rutrum augue. Nulla tincidunt tincidunt mi. Lorem ipsum dolor<footer class="entry-footer text-right">
+          <a href="./../../../2018/03/06/co-founder-trying-to-explain-his-idea-to-his-employers/index.html" class="more-link btn btn-link">READ MORE <i class="icon fa fa-long-arrow-right"></i></a>
+         </footer>]]></description>
+										<content:encoded><![CDATA[<p class="mb-20">Aliquam convallis sollicitudin purus. Praesent aliquam, enim at fermentum mollis, ligula massa adipiscing nisl, ac euismod nibh nisl eu lectus. Fusce vulputate sem at sapien. Vivamus leo. Aliquam euismod libero eu enim. Nulla nec felis sed leo placerat imperdiet. Aenean suscipit nulla in justo. Suspendisse cursus rutrum augue. Nulla tincidunt tincidunt mi.</p>
+<blockquote class="block-quote mb-20"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur esse, aliquam dolore nulla debitis excepturi ea ex earum quos molestias porro aut, corporis, ratione assumenda sint pariatur veritatis possimus nobis!</p></blockquote>
+<p class="mb-20">Praesent aliquam, enim at fermentum mollis, ligula massa adipiscing nisl, ac euismod nibh nisl eu lectus. Fusce vulputate sem at sapien. Vivamus leo. Aliquam euismod libero eu enim. Nulla nec felis sed leo placerat imperdiet. Aenean suscipit nulla in justo.</p>
+<h4 class="mb-20">Lorem ipsum dolor sit amet, consectetur.</h4>
+<div class="gallery mb-20">
+<div class="row row-rl-10">
+<div class="col-sm-4"><img src="https://friday-theme.firebaseapp.com/assets/images/blog/post_01.jpg" alt="" /></div>
+<div class="col-sm-4"><img src="https://friday-theme.firebaseapp.com/assets/images/blog/post_02.jpg" alt="" /></div>
+<div class="col-sm-4"><img src="https://friday-theme.firebaseapp.com/assets/images/blog/post_03.jpg" alt="" /></div>
+</div>
+</div>
+<p class="mb-20">Praesent aliquam, enim at fermentum mollis, ligula massa adipiscing nisl, ac euismod nibh nisl eu lectus. Fusce vulputate sem at sapien. Vivamus leo. Aliquam euismod libero eu enim. Nulla nec felis sed leo placerat imperdiet. Aenean suscipit nulla in justo.</p>
+<h5 class="mb-10">Qui cumque numquam ?</h5>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus a nobis, vero in corrupti nostrum. Magni reprehenderit tempora tempore maiores, repellat in laboriosam aliquid ex error, iusto quae, et similique.</p>
+<ul class="mb-20 list-styled">
+<li>laborum veniam odio fuga deleniti provident.</li>
+<li>Voluptates quos accusamus repudiandae? Officia!</li>
+<li>Rerum ea omnis quos. Facere!</li>
+</ul>
+<p class="mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis sunt a quam, exercitationem, provident numquam quia eius optio quos vitae odio impedit ipsum voluptatem earum neque architecto enim quisquam, ea.</p>
+<p class="mb-30">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, ipsum facilis, eaque aliquid porro deleniti architecto eum perferendis quidem modi quo reiciendis dolor deserunt beatae repellat, nostrum aut fuga. Rem?</p>
+<div class="gallery mb-20">
+<div class="row row-rl-10 row-tb-10">
+<div class="col-sm-6"><img src="https://friday-theme.firebaseapp.com/assets/images/blog/post_04.jpg" alt="" /></div>
+<div class="col-sm-6"><img src="https://friday-theme.firebaseapp.com/assets/images/blog/post_05.jpg" alt="" /></div>
+</div>
+</div>
+<p class="mb-20">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, ipsum facilis, eaque aliquid porro deleniti architecto eum perferendis quidem modi quo reiciendis dolor deserunt beatae repellat, nostrum aut fuga. Rem?</p>
+<p class="mb-30">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis sunt a quam, exercitationem, provident numquam quia eius optio quos vitae odio impedit ipsum voluptatem earum neque architecto enim quisquam, ea.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2018/03/06/co-founder-trying-to-explain-his-idea-to-his-employers/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

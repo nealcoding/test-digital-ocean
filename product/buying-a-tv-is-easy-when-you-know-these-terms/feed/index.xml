@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Buying a TV Is Easy When You Know These Terms	</title>
+	<atom:link href="http://localhost/wordpress/product/buying-a-tv-is-easy-when-you-know-these-terms/feed/" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 22 May 2021 00:23:47 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: John Doe		</title>
+		<link>./../index.html#comment-3</link>
+
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Thu, 08 Mar 2018 10:30:28 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/friday/?post_type=product&#038;p=129#comment-3</guid>
+
+					<description><![CDATA[Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam.]]></description>
+			<content:encoded><![CDATA[<p>Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: admin		</title>
+		<link>./../index.html#comment-2</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 04 Mar 2018 09:09:01 +0000</pubDate>
+		<guid isPermaLink="false">http://localhost:8080/friday/?post_type=product&#038;p=129#comment-2</guid>
+
+					<description><![CDATA[Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam.]]></description>
+			<content:encoded><![CDATA[<p>Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
