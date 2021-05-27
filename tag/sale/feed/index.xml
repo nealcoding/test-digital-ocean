@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>sale &#8211; test</title>
+	<title>sale &#8211; 北美折扣</title>
 	<atom:link href="http://localhost/wordpress/tag/sale/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
-	<description>Just another WordPress site</description>
+	<description>北美折扣</description>
 	<lastBuildDate>Tue, 06 Mar 2018 17:52:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
