@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Stockx折扣 优惠码 &#8211; 北美折扣</title>
-	<atom:link href="http://localhost/wordpress/store/stockx/feed/" rel="self" type="application/rss+xml" />
+	<title>Adidas折扣 优惠码 &#8211; 北美折扣</title>
+	<atom:link href="http://localhost/wordpress/store/adidas%E6%8A%98%E6%89%A3-%E4%BC%98%E6%83%A0%E7%A0%81/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>北美折扣</description>
-	<lastBuildDate>Thu, 27 May 2021 02:47:13 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 May 2021 20:02:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,15 +20,16 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>2021-05-26前有效</title>
-		<link>./../../../index.html?post_type=shop_coupon&#038;p=600</link>
+		<title>SAVE25</title>
+		<link>./../../../index.html?post_type=shop_coupon&#038;p=602</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 27 May 2021 02:39:03 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=shop_coupon&#038;p=600</guid>
+		<pubDate>Fri, 28 May 2021 19:58:41 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=shop_coupon&#038;p=602</guid>
 
-					<description><![CDATA[Stockx折扣 免运费]]></description>
-										<content:encoded><![CDATA[Stockx折扣 免运费]]></content:encoded>
+					<description><![CDATA[Memorial Day]]></description>
+										<content:encoded><![CDATA[<p>Memorial Day</p>
+]]></content:encoded>
 					
 		
 		
